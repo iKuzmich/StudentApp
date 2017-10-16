@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Students>
+  <Student Id="0">
+    <FirstName>Robert</FirstName>
+    <Last>Jarman</Last>
+    <Age>21</Age>
+    <Gender>0</Gender>
+  </Student>
+  <Student Id="1">
+    <FirstName>Leona</FirstName>
+    <Last>Menders</Last>
+    <Age>20</Age>
+    <Gender>1</Gender>
+  </Student>
+  <Student Id="2">
+    <FirstName>Helen</FirstName>
+    <Last>Wilson</Last>
+    <Age>21</Age>
+    <Gender>1</Gender>
+  </Student>
+  <Student Id="3">
+    <FirstName>Smith</FirstName>
+    <Last>John</Last>
+    <Age>22</Age>
+    <Gender>0</Gender>
+  </Student>
+  <Student Id="4">
+    <FirstName>Алексей</FirstName>
+    <Last>Дроздов</Last>
+    <Age>19</Age>
+    <Gender>0</Gender>
+  </Student>
+  <Student Id="5">
+    <FirstName>Вадим</FirstName>
+    <Last>Халтурин</Last>
+    <Age>21</Age>
+    <Gender>0</Gender>
+  </Student>
+  <Student Id="6">
+    <FirstName>Анна</FirstName>
+    <Last>Говорухина</Last>
+    <Age>20</Age>
+    <Gender>1</Gender>
+  </Student>
+  <Student Id="7">
+    <FirstName>Sergei</FirstName>
+    <Last>Orlovskiy</Last>
+    <Age>27</Age>
+    <Gender>0</Gender>
+  </Student>
+  <Student Id="8">
+    <FirstName>Анна</FirstName>
+    <Last>Седокова</Last>
+    <Age>21</Age>
+    <Gender> Жен</Gender>
+  </Student>
+  <Student Id="9">
+    <FirstName>Симон</FirstName>
+    <Last>Ленко</Last>
+    <Age>25</Age>
+    <Gender>0</Gender>
+  </Student>
+  <Student Id="10">
+    <FirstName>Сидор</FirstName>
+    <Last>Иван</Last>
+    <Age>96</Age>
+    <Gender>0</Gender>
+  </Student>
+  <Student Id="11">
+    <FirstName>Анастасия</FirstName>
+    <Last>Шпак</Last>
+    <Age>20</Age>
+    <Gender>1</Gender>
+  </Student>
+</Students>
